@@ -1,0 +1,11 @@
+name: IMDbMovieRecommender
+title: IMDbMovieRecommender
+username:
+account: jennyliu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6859111
+bundleId: 6242998
+url: https://jennyliu.shinyapps.io/IMDbMovieRecommender/
+when: 1661585273.11977
+lastSyncTime: 1661585273.11978
